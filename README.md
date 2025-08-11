@@ -1,4 +1,8 @@
 ##  Hello There,
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=4000&color=00F0FF&center=true&vCenter=true&width=900&lines=🚀+Welcome+to+The+Nandinee's+Galaxy!;🌌+Cracking+Codes,+Charting+Paths;🔥+Driven+by+Curiosity)](https://git.io/typing-svg)
+
 ![Space Banner](banner.png)
 
 <p align="center">
@@ -6,8 +10,6 @@
   <img src="https://komarev.com/ghpvc/?username=TheNandinee&label=Visitors+in+the+Galaxy&color=blueviolet&style=for-the-badge" alt="profile views" />
 </p>
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=4000&color=00F0FF&center=true&vCenter=true&width=900&lines=🚀+Welcome+to+The+Nandinee's+Galaxy!;🌌+Cracking+Codes,+Charting+Paths;🔥+Driven+by+Curiosity)](https://git.io/typing-svg)
 
 ## ​ Space Log
 >
