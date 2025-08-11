@@ -1,4 +1,4 @@
-## Hello There,
+##  Hello There,
 ![Space Banner](banner.png)
 
 <p align="center">
@@ -15,10 +15,6 @@
 > - Exploring: AI/ML, CP
 > - Motto: “Sky's NOT the limit”
 
-<!-- Live Rotating Planet Animation -->
-<p align="center">
-  <img src="https://media.tenor.com/Ug6cbVA1ZsMAAAAC/earth-rotating.gi](https://cdn.pixabay.com/animation/2022/11/13/07/16/07-16-41-513_512.gif" width="120" alt="Rotating Earth" />
-</p>
 
 
 ### Skills & Missions
@@ -33,6 +29,4 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=TheNandinee&theme=neon-dark&hide_border=true)
 
-<img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="50" alt="rocket" />  
-<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="50" alt="satellite" />
 
