@@ -1,8 +1,9 @@
+## Hello There,
 ![Space Banner](banner.png)
 
 <p align="center">
   <!-- Galactic Visitor Counter -->
-  <img src="https://komarev.com/ghpvc/?username=TheNandinee&label=🛸+Visitors+in+the+Galaxy&color=blueviolet&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=TheNandinee&label=Visitors+in+the+Galaxy&color=blueviolet&style=for-the-badge" alt="profile views" />
 </p>
 
 
@@ -16,19 +17,17 @@
 
 <!-- Live Rotating Planet Animation -->
 <p align="center">
-  <img src="https://media.tenor.com/Ug6cbVA1ZsMAAAAC/earth-rotating.gif" width="120" alt="Rotating Earth" />
+  <img src="https://media.tenor.com/Ug6cbVA1ZsMAAAAC/earth-rotating.gi](https://cdn.pixabay.com/animation/2022/11/13/07/16/07-16-41-513_512.gif" width="120" alt="Rotating Earth" />
 </p>
 
 
-### 🚀 Skills & Missions
+### Skills & Missions
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=blue)
 ![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
 ![AI/ML](https://img.shields.io/badge/AI%2FML-000?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
 
 
-## 📊 Mission Data
-
-![TheNandinee's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheNandinee&show_icons=true&theme=tokyonight)
+## Mission Data
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TheNandinee&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
