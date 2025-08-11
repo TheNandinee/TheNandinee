@@ -1,5 +1,7 @@
 ## Hi there 👋
 ![Space Banner](assets/banner.png)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=4000&color=00F0FF&center=true&vCenter=true&width=900&lines=🚀+Welcome+to+Nandinee's+Galaxy!;👩‍🚀+Astronaut+in+training;💻+AI+and+Cybersecurity+Explorer;🌌+On+a+Mission+to+Master+the+Universe)](https://git.io/typing-svg)
+
 
 <!--
 **TheNandinee/TheNandinee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
