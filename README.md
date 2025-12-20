@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nandinee</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=4000&color=00F0FF&center=true&vCenter=true&width=900&lines=+Welcome+to+Nandinee's+Galaxy!;+Building+Reliable+Systems;Machine+Learning+with+Intent;+Driven+by+Curiosity" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=4000&color=00F0FF&center=true&vCenter=true&width=900&lines=+Welcome+to+Nandinee's+Galaxy!;+Building+Reliable+Systems;Exploring+ML;+Driven+by+Curiosity" />
 </p>
 
 
