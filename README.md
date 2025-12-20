@@ -39,8 +39,8 @@
 ## 🛠 Featured Work
 
 ### 🏦 RISKON — Dynamic Credit Risk System
-**1st Prize Winner — FinShield Hackathon (IIT Hyderabad × Bank of India)**.
-**Sole team selected by Indian Banks’ Association to pitch at Global FinTech Fest 2025.**.
+- **1st Prize Winner — FinShield Hackathon (IIT Hyderabad × Bank of India)**.
+- **Invited by Indian Banks’ Association to deliver an investment pitch at The Global FinTech Fest 2025.**.
 
 
 ---
