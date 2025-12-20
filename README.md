@@ -45,11 +45,6 @@
 
 ---
 
-## 📡 Let's Connect
-<p align="left">
-  <a href="linkedin.com/in/TheNandinee/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"></a>
-</p>
-
 <p align="center">
   <i>Engineering today what the future will run on.</i>
 </p>
