@@ -8,7 +8,7 @@
 ## Mission Logs
 - Currently exploring: **Backend Systems, Microservices, AI/ML**
 - Learning: **Kafka | Production Engineering | Scalable Architectures**
-- Motto: **“Sky’s NOT the limit.”**
+- Motto: **Sky’s NOT the limit.**
 
 
 ## ⚙️ Tech Stack
@@ -39,18 +39,17 @@
 ## 🛠 Featured Work
 
 ### 🏦 RISKON — Dynamic Credit Risk System
-Designed a time-series driven financial risk engine using interpretable ML (WoE), shortlisted & **1st Prize Winner — FinShield Hackathon (IIT Hyderabad × Bank of India)**.
+**1st Prize Winner — FinShield Hackathon (IIT Hyderabad × Bank of India)**.
+**Sole team selected by Indian Banks’ Association to pitch at Global FinTech Fest 2025.**.
 
-### 🎫 Automated Certificate Assistant — AWS
-Built a Streamlit-based automation assistant reducing manual work by **95%**, winning **AWS Club Hackathon — 1st Prize**.
 
---
+---
+
 ## 📡 Let's Connect
 <p align="left">
   <a href="linkedin.com/in/TheNandinee/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"></a>
 </p>
 
---
 <p align="center">
   <i>Engineering today what the future will run on.</i>
 </p>
