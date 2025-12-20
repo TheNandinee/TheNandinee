@@ -1,10 +1,7 @@
 <h1 align="center">Hi, I'm Nandinee</h1>
-<h3 align="center"> Backend & Systems | Exploring ML </h3>
-
-
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=4000&color=00F0FF&center=true&vCenter=true&width=850&lines=Welcome+to+Nandinee's+Galaxy;Engineering+Impactful+Systems+%7C+Scaling+Ideas+to+Reality;Curiosity+is+my+Fuel" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=4000&color=00F0FF&center=true&vCenter=true&width=900&lines=+Welcome+to+Nandinee's+Galaxy!;+Building+Reliable+Systems;Machine+Learning+with+Intent;+Driven+by+Curiosity)](https://git.io/typing-svg" />
 </p>
 
 
