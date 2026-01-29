@@ -34,6 +34,11 @@
 ![Grafana](https://img.shields.io/badge/Grafana-000?style=for-the-badge&logo=grafana)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-000?style=for-the-badge&logo=elasticsearch)
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TheNandinee&label=Profile%20Visits&color=00F0FF&style=for-the-badge" />
+</p>
+
+
 ---
 
 ## 🛠 Featured Work
